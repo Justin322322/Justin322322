@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Justin!</h1>
+<h1 align="center"> Hi, I'm Justin!</h1>
 
 <p align="center">
   Full-Stack Web Developer in Progress | Data Engineer | Python • MERN • C# • PHP | 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Justin322322&show_icons=true&theme=tokyonight" height="180px" />
