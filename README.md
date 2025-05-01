@@ -1,10 +1,18 @@
-<h1 align="center">🔥 Welcome, Wanderer of Code 🔥</h1>
-
+<!-- Found a cool flame gif, adjust width as needed -->
 <p align="center">
-  ⚔️ Justin | Full-Stack Developer Apprentice | ⚔️  
+  <img src="https://media.giphy.com/media/lrbk8KrGDfTJC/giphy.gif" width="50" />
+  <h1 align="center">🔥 Welcome, Wanderer of Code 🔥</h1>
+  <img src="https://media.giphy.com/media/lrbk8KrGDfTJC/giphy.gif" width="50" />
 </p>
 
----
+<p align="center">
+  ⚔️ Justin | Full-Stack Developer Apprentice | ⚔️
+</p>
+
+<!-- Animated Fire Line Divider - Adjust width/URL if you find a better one -->
+<p align="center">
+  <img src="https://media.giphy.com/media/lM5y7f2LDNdTLgQp84/giphy.gif" width="80%">
+</p>
 
 ## ⚙️ Arcane Arsenal (Tech Stack)
 
@@ -24,7 +32,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<!-- Animated Fire Line Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/lM5y7f2LDNdTLgQp84/giphy.gif" width="80%">
+</p>
 
 ## 📜 Git Scrolls (Stats & Lore)
 
@@ -33,10 +44,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin322322&layout=compact&theme=radical&title_color=ff5555&text_color=ffffff&bg_color=0d1117" height="180px" />
 </p>
 
----
+<!-- Animated Fire Line Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/lM5y7f2LDNdTLgQp84/giphy.gif" width="80%">
+</p>
 
 ## 🏆 Legendary Artifacts
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Justin322322&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
+
+<!-- Optional: Add a final fire divider at the bottom -->
+<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/lM5y7f2LDNdTLgQp84/giphy.gif" width="80%">
+</p>
+-->
