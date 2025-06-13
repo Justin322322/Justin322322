@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Justin!</h1>
 
 <p align="center">
-  Full-Stack Web Developer in Progress | Data Engineer | Python • MERN • C# • PHP | 
+  Full-Stack Web Developer | Data Engineer | Python • MERN • C# • PHP | 
 </p>
 
 ---
